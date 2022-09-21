@@ -49,3 +49,5 @@ Run `mysql -u root -p` and enter password.
 Run `source db/schema.sql` in mysql shell.
 Exit out of shell with `quit`.
 Run `npm run seed`, then `npm start`.
+
+##
